@@ -1,5 +1,9 @@
 # temp-spock
-A simple stub project to help a redditor compile Spock. See: http://www.reddit.com/r/haskell/comments/332s1k/what_haskell_web_framework_do_you_use_and_why/cqjacvx
+A simple stub project to help a redditor compile Spock on Windows. See: http://www.reddit.com/r/haskell/comments/332s1k/what_haskell_web_framework_do_you_use_and_why/cqjacvx
+
+`$` indicates a command prompt. It was a normal Windows prompt, I just renamed it for cleaner git README formatting. I've also made some inline replacements, for privacy.
+
+Running from a command prompt on Windows 8.1:
 
 > $ ghc --version
 ```
