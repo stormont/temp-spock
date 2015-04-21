@@ -5,6 +5,10 @@ A simple stub project to help a redditor compile Spock on Windows. See: http://w
 
 Running from a command prompt on Windows 8.1 using Haskell Platform 2014.2.0.0:
 
+> mkdir temp-spock
+
+> cd temp-spock
+
 > $ ghc --version
 ```
 The Glorious Glasgow Haskell Compilation System, version 7.8.3
