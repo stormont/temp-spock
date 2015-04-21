@@ -3,7 +3,7 @@ A simple stub project to help a redditor compile Spock on Windows. See: http://w
 
 `$` indicates a command prompt. It was a normal Windows prompt, I just renamed it for cleaner git README formatting. I've also made some inline replacements, for privacy.
 
-Running from a command prompt on Windows 8.1:
+Running from a command prompt on Windows 8.1 using Haskell Platform 2014.2.0.0:
 
 > $ ghc --version
 ```
